@@ -41,9 +41,9 @@ cd back
 npm install
 ```
 ### 3. Crea el archivo de variables de entorno
-```
-Crea un archivo .env y añade las siguientes variables:
-```
+
+Crea un archivo .env (en la raiz de la carperta back) y añade las siguientes variables:
+
 
 ```
 # Puerto para el servidor de la API
